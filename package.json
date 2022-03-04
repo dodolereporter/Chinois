@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "discord-user-bots": "^1.2.7"
-  }
+  },
+  "name": "chinois",
+  "description": "��#\u0000 \u0000C\u0000h\u0000i\u0000n\u0000o\u0000i\u0000s\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodolereporter/Chinois.git"
+  },
+  "author": "dodolereporter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodolereporter/Chinois/issues"
+  },
+  "homepage": "https://github.com/dodolereporter/Chinois#readme"
 }
